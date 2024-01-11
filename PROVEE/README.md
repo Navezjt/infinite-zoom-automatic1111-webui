@@ -1,0 +1,1 @@
+https://github.com/v8hid/infinite-zoom-automatic1111-webui
